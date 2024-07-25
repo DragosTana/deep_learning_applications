@@ -1,7 +1,8 @@
+# OOD detection and adversarial attacks
 
-
-
-
+Here we are focusing on two topics that seem very different but, as it turns out, are related: out of distribution detection and adversarial attacks. The main objectives here were:
+    - Implement and evaluate with the ODIN detector.
+    - Implement and evaluate the FGSM algorithm both in targeted and untargeted forms and evaluate its performance.
 
 ## ODIN detector
 
