@@ -4,7 +4,7 @@ This aims to be a study on convolution neural networks, how to stuck them in coo
 The focus is:
 - Understand why (and how!!) residual connections work.
 - Get a grasp on what CNNs are doing under the hood thanks to [Grad-CAM](https://arxiv.org/abs/1610.02391).
-- Do some segmentation on MNIST.
+- Creating a classification pipeline.
 
 Despite my initial enthusiasm, I accepted the fact that I won't be able to compete with Lightning AI and opted to use their framework, [Python Lightning](https://lightning.ai/docs/pytorch/stable/), instead of coding my own. 
 
