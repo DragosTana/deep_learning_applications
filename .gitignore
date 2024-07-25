@@ -1,0 +1,12 @@
+laboratory_1/data
+laboratory_1/runs
+laboratory_1/wandb
+laboratory_1/lightning_logs
+laboratory_1/__pycache__
+laboratory_2/data/wikihop
+wandb
+runs
+laboratory_2/__pycache__
+__pycache__
+/data
+```
