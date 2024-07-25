@@ -10,11 +10,10 @@ The implementation of the ODIN detector was based on the [Enhancing The Reliabil
 
 ### Models
 
-Two different models were used for to test the to test the OOD detection pipeline.
+Two different models were used to test the OOD detection pipeline.
 
 - A small custom CNN.
 - A [pretrained ResNet](https://github.com/chenyaofo/pytorch-cifar-models) from PyTorch Hub. 
-
 
 To train, evaluate or show the confusion matrix of the custom CNN use the ```train.py``` script as follows:
 
@@ -36,7 +35,7 @@ The model was trained on CIFAR10 with the following hyperparameters:
 - batch size: 128
 - learning rate: 1e-3
 
-It achives an accuracy of 83.29%
+and it achives an accuracy of 83.29%
 
 
 ### Setup
